@@ -10,8 +10,7 @@ import { FcAbout } from "react-icons/fc";
 import { PiDressDuotone } from "react-icons/pi";
 import { GiAmpleDress } from "react-icons/gi";
 import { VscFeedback } from "react-icons/vsc";
-import { Button } from '@mui/material';
-import { BrowserRouter as Router, Route, Routes, Navigate, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes,  Link } from 'react-router-dom';
 import HomePage from './Compponents/HomePage';
 
 function App() {

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
-import { Card, Form, Button, Alert } from 'react-bootstrap';
+import {  Form, Button, Alert } from 'react-bootstrap';
 import HashLoader from 'react-spinners/HashLoader';
 import axios from 'axios';
 import { CgMail } from "react-icons/cg";
