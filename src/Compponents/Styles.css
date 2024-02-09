@@ -1,0 +1,39 @@
+#hero {
+    background-image: url('images/GO with Fashion (1).jpg');
+    margin-top: 1px;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  h1{
+    background-color: rgb(233, 236, 236)
+  }
+
+  .social-icons a {
+    margin: 0 10px;
+    font-size: 24px;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .contact-info a {
+    text-decoration: none;
+    color: #333;
+    display: block;
+    margin-top: 10px;
+  }
+  /* .container{ */
+    /* background-color: #f4f0f0; */
+    /* text-align: center;
+
+  } */
+  /* .footer-links{
+    text-decoration: none;
+    color: #333;
+    display: block;
+    margin-top: 10px;
+  } */
